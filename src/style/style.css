@@ -1,0 +1,42 @@
+@font-face {
+    font-family: 'AdigianaUI';
+    src: url(/src/assets/Fonts/AdigianaUI.ttf);
+}
+
+.presentación_texto h1{
+    font-family: 'AdigianaUI';
+    color: rgb(22, 51, 89,);
+    font-size: 100px;
+}
+.presentación_texto h4{
+    font-family: 'AdigianaUI';
+    color: rgb(22, 51, 89, 0.5);
+    font-size: 50px;
+}
+
+#flecha{
+    width: 60px;
+    margin-top: 150px;
+}
+.titulo_sobremi h2{
+    text-align: center;
+    margin-top: 120px;
+    font-family: 'AdigianaUI';
+    color: rgb(22, 51, 89);
+    font-size: 50px;
+}
+
+
+.sobre_mi{
+    margin-top: 100px;
+}
+
+.sect1{
+    margin-top: 60px;
+}
+.titulo_sobremi{
+    font-family: 'AdigianaUI'
+}
+.info_sobremi{
+    font-family: 'Kanit-Italic';
+}
