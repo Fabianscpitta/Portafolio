@@ -38,5 +38,92 @@
     font-family: 'AdigianaUI'
 }
 .info_sobremi{
+    font-family: 'Times New Roman', Times, serif;
+    padding-top: 20px;
+    font-size: 20px;
+}
+.container{
+    margin-left: 1000px;
+}
+
+.foto{
+    
+    margin-left: 10px;
+}
+.img-fluid{
+    margin-left: 100px;
+}
+.proyectos h2{
+    text-align: center;
+    font-family: 'AdigianaUI';
+    font-size: 50px;
+    color: rgb(22, 51, 89);
+}
+.card h5{
     font-family: 'Kanit-Italic';
+
+}
+.botoncv{
+    background-color: rgb(22, 51, 89);
+    color: white;
+    padding: 15px 25px;
+    text-decoration: none;   
+    border-radius: 10px;
+    font-family: 'Kanit-Italic';
+}
+.botoncv:hover{
+    background-color:rgb(22, 51, 89, 0.5);
+    transform: scale(1.1);
+}
+.card p{
+    font-family: 'Times New Roman', Times, serif;
+}
+.card:hover{
+    transform: scale(1.05);
+    
+}
+#flecha2{
+    width: 60px;
+    margin-top: 190px;
+}
+
+.accordion h2{
+    text-align: center;
+    font-family: 'Kanit-Italic';
+    font-size: 50px;
+    
+}
+nommbre{
+    color: white;
+    font-size: 20px;
+}
+.accordion h3{
+    text-align: center;
+    font-family: 'AdigianaUI';
+    font-size: 50px;
+    color: rgb(22, 51, 89);
+}
+.accordion p{
+    font-family: 'Times New Roman', Times, serif;
+}
+.custom-background {
+    background-color: #105057!important;
+    
+}
+.experiencia{
+    margin-top: 100px;
+}
+
+.exp{
+    margin-top: 80px;
+}
+.linea hr{
+    margin-top: 150px;
+    background-color: rgb(22, 51, 89);
+}
+.proyectos{
+    margin-top: 100px;
+}
+.card{
+    margin-top: 100px;
 }
