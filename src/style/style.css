@@ -1,9 +1,12 @@
-body{}
+
 @font-face {
     font-family: 'AdigianaUI';
     src: url(/src/assets/Fonts/AdigianaUI.ttf);
 }
-
+@font-face {
+    font-family: 'Kanit-Italic';
+    src: url(/src/assets/Fonts/Kanit/Kanit-Italic.ttf);
+}
 
 .presentación_texto h1{
     font-family: 'AdigianaUI';
